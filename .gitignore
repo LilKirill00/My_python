@@ -1,0 +1,10 @@
+discord_bot/*.json
+
+__pycache__/
+.idea/
+venv/
+
+not_add/youtube/download/*
+!not_add/youtube/download/.gitkeep
+
+not_add

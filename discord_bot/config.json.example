@@ -1,0 +1,5 @@
+{
+    "token": "your_bot_token",
+    "prefix": "//",
+    "default_ip": "ip_minecraft_server"
+}
